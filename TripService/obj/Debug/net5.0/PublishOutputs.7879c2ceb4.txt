@@ -1,8 +1,0 @@
-C:\OneD\OneDrive\Alg\22W\CST8259\Week 15\Final V3\TripService - Complete\obj\Debug\net5.0\PubTmp\Out\Data\itineraries.xml
-C:\OneD\OneDrive\Alg\22W\CST8259\Week 15\Final V3\TripService - Complete\obj\Debug\net5.0\PubTmp\Out\TripService.exe
-C:\OneD\OneDrive\Alg\22W\CST8259\Week 15\Final V3\TripService - Complete\obj\Debug\net5.0\PubTmp\Out\appsettings.Development.json
-C:\OneD\OneDrive\Alg\22W\CST8259\Week 15\Final V3\TripService - Complete\obj\Debug\net5.0\PubTmp\Out\appsettings.json
-C:\OneD\OneDrive\Alg\22W\CST8259\Week 15\Final V3\TripService - Complete\obj\Debug\net5.0\PubTmp\Out\TripService.dll
-C:\OneD\OneDrive\Alg\22W\CST8259\Week 15\Final V3\TripService - Complete\obj\Debug\net5.0\PubTmp\Out\TripService.deps.json
-C:\OneD\OneDrive\Alg\22W\CST8259\Week 15\Final V3\TripService - Complete\obj\Debug\net5.0\PubTmp\Out\TripService.runtimeconfig.json
-C:\OneD\OneDrive\Alg\22W\CST8259\Week 15\Final V3\TripService - Complete\obj\Debug\net5.0\PubTmp\Out\TripService.pdb

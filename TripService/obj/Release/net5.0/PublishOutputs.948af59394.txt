@@ -1,8 +1,0 @@
-C:\OneDrive\OneDrive - Algonquin College\Algonquin\21W\CST8259\Week 15\Final V2\TripService\obj\Release\net5.0\PubTmp\Out\Data\itineraries.xml
-C:\OneDrive\OneDrive - Algonquin College\Algonquin\21W\CST8259\Week 15\Final V2\TripService\obj\Release\net5.0\PubTmp\Out\TripService.exe
-C:\OneDrive\OneDrive - Algonquin College\Algonquin\21W\CST8259\Week 15\Final V2\TripService\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
-C:\OneDrive\OneDrive - Algonquin College\Algonquin\21W\CST8259\Week 15\Final V2\TripService\obj\Release\net5.0\PubTmp\Out\appsettings.json
-C:\OneDrive\OneDrive - Algonquin College\Algonquin\21W\CST8259\Week 15\Final V2\TripService\obj\Release\net5.0\PubTmp\Out\TripService.dll
-C:\OneDrive\OneDrive - Algonquin College\Algonquin\21W\CST8259\Week 15\Final V2\TripService\obj\Release\net5.0\PubTmp\Out\TripService.deps.json
-C:\OneDrive\OneDrive - Algonquin College\Algonquin\21W\CST8259\Week 15\Final V2\TripService\obj\Release\net5.0\PubTmp\Out\TripService.runtimeconfig.json
-C:\OneDrive\OneDrive - Algonquin College\Algonquin\21W\CST8259\Week 15\Final V2\TripService\obj\Release\net5.0\PubTmp\Out\TripService.pdb
