@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8a158e8a-2c05-49c0-a7c5-e0488dbebbee": {
+      "ProjectGuid": "8a158e8a-2c05-49c0-a7c5-e0488dbebbee",
+      "DisplayName": "TripClient",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
